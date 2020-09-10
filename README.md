@@ -2,8 +2,7 @@
  <h1>Olá, me chamo João Gabriel Valentim Theodoro</h1> 
  Sou técnico em informática e trabalho com desenvolvimento web, em back-end e front-end. Tenho habilidade com Node.JS, Express.js , React.js e Vue.js.
 </header>
-
-<section>
+<div>
   Minhas habilidades:
   <ul>
     <li>MySQL</li> 
@@ -12,4 +11,4 @@
     <li>React.js</li> 
     <li>Vue.js</li> 
   </ul>
-</section>
+</div>
