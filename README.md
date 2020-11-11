@@ -9,17 +9,17 @@
 <p>
  <img align="center" 
      src="https://github-readme-stats.vercel.app/api/top-langs/?username=JoaoValentimDev&theme=tokyonight" />
-</p>
-<p>
  <img align="center" 
      src="https://github-readme-stats.vercel.app/api/?username=JoaoValentimDev&theme=tokyonight" />
 </p>
 <p>
- <img align="center" 
+ <img 
      src="https://github-readme-stats.vercel.app/api/pin/?username=JoaoValentimDev&theme=tokyonight&repo=hello-world-deno" />
-  <img align="center" 
+  <img
      src="https://github-readme-stats.vercel.app/api/pin/?username=JoaoValentimDev&theme=tokyonight&repo=hello-world-nodejs" />
- <img align="center" 
+ <img 
      src="https://github-readme-stats.vercel.app/api/pin/?username=JoaoValentimDev&theme=tokyonight&repo=python-cores-terminal" />
+  <img 
+     src="https://github-readme-stats.vercel.app/api/pin/?username=JoaoValentimDev&theme=tokyonight&repo=shell-script-scanning-ips" />
 </p>
 </main>
