@@ -14,4 +14,8 @@
  <img align="center" 
      src="https://github-readme-stats.vercel.app/api/?username=JoaoValentimDev&theme=tokyonight" />
 </p>
+<p>
+ <img align="center" 
+     src="https://github-readme-stats.vercel.app/api/pin/?username=JoaoValentimDev&theme=tokyonight" />
+</p>
 </main>
