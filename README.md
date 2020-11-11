@@ -5,7 +5,7 @@
 <main>
 <p>
  <img align="center" 
-     src="https://github-readme-stats.vercel.app/top-langs/api/?username=JoaoValentimDev&theme=tokyonight" />
+     src="https://github-readme-stats.vercel.app/api/top-langs/?username=JoaoValentimDev&theme=tokyonight" />
 </p>
 <p>
  <img align="center" 
