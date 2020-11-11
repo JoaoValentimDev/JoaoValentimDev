@@ -16,6 +16,6 @@
 </p>
 <p>
  <img align="center" 
-     src="https://github-readme-stats.vercel.app/api/pin/?username=JoaoValentimDev&theme=tokyonight" />
+     src="https://github-readme-stats.vercel.app/api/pin/?username=JoaoValentimDev&theme=tokyonight&repo=https://github.com/JoaoValentimDev/hello-world-deno" />
 </p>
 </main>
