@@ -8,18 +8,18 @@
  </p>
 <p>
  <img align="center" 
-     src="https://github-readme-stats.vercel.app/api/top-langs/?username=JoaoValentimDev&theme=tokyonight" />
+     src="https://github-readme-stats.vercel.app/api/top-langs/?username=JoaoValentimDev&theme=dark" />
  <img align="center" 
-     src="https://github-readme-stats.vercel.app/api/?username=JoaoValentimDev&theme=tokyonight" />
+     src="https://github-readme-stats.vercel.app/api/?username=JoaoValentimDev&theme=dark" />
 </p>
 <p>
  <img 
-     src="https://github-readme-stats.vercel.app/api/pin/?username=JoaoValentimDev&theme=tokyonight&repo=hello-world-deno" />
+     src="https://github-readme-stats.vercel.app/api/pin/?username=JoaoValentimDev&theme=dark&repo=hello-world-deno" />
   <img
-     src="https://github-readme-stats.vercel.app/api/pin/?username=JoaoValentimDev&theme=tokyonight&repo=hello-world-nodejs" />
+     src="https://github-readme-stats.vercel.app/api/pin/?username=JoaoValentimDev&theme=dark&repo=hello-world-nodejs" />
  <img 
-     src="https://github-readme-stats.vercel.app/api/pin/?username=JoaoValentimDev&theme=tokyonight&repo=python-cores-terminal" />
+     src="https://github-readme-stats.vercel.app/api/pin/?username=JoaoValentimDev&theme=dark&repo=python-cores-terminal" />
   <img 
-     src="https://github-readme-stats.vercel.app/api/pin/?username=JoaoValentimDev&theme=tokyonight&repo=shell-script-scanning-ips" />
+     src="https://github-readme-stats.vercel.app/api/pin/?username=JoaoValentimDev&theme=dark&repo=shell-script-scanning-ips" />
 </p>
 </main>
