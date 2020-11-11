@@ -3,5 +3,6 @@
  Sou técnico em informática e trabalho com desenvolvimento web, em back-end e front-end. Tenho habilidade com Node.JS, Express.js , React.js e Vue.js.
 </header>
 <main>
- [![Anurag's github stats](https://github-readme-stats.vercel.app/api?username=JoaoValentimDev)](https://github.com/JoaoValentimDev/JoaoValentimDev)
+<img align="center" 
+     src="https://github-readme-stats.vercel.app/api/?username=JoaoValentimDev&theme=tokyonight" />
 </main>
