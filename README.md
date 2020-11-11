@@ -19,5 +19,7 @@
      src="https://github-readme-stats.vercel.app/api/pin/?username=JoaoValentimDev&theme=tokyonight&repo=hello-world-deno" />
   <img align="center" 
      src="https://github-readme-stats.vercel.app/api/pin/?username=JoaoValentimDev&theme=tokyonight&repo=hello-world-nodejs" />
+ <img align="center" 
+     src="https://github-readme-stats.vercel.app/api/pin/?username=JoaoValentimDev&theme=tokyonight&repo=python-cores-terminal" />
 </p>
 </main>
