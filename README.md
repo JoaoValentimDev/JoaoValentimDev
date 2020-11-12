@@ -2,7 +2,6 @@
  <h1>Sobre mim</h1>
 </header>
 <main>
-<h3>Bio</h3>
 <p>
   Olá, me chamo João Gabriel Valentim Theodoro</h1> 
   Sou técnico em informática e trabalho com desenvolvimento web, em back-end e front-end. Tenho habilidade com Node.JS,     Express.js , React.js e Vue.js.
