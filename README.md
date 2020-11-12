@@ -15,7 +15,7 @@
      src="https://github-readme-stats.vercel.app/api/?username=JoaoValentimDev&theme=dark" />
 </p>
 
-<h3>Meu projetos recentes</h3>
+<h3>Meus projetos recentes</h3>
 <p>
  <img 
      src="https://github-readme-stats.vercel.app/api/pin/?username=JoaoValentimDev&theme=dark&repo=hello-world-deno" />
