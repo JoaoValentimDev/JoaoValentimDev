@@ -1,6 +1,6 @@
 <main>
  <header>
-  <h1 style="font-size: 1.2rem; color: #71f;">Seja muito(a) bem-vindo(a) dev(a)!</h1>
+  <h1 style="font-size: 2rem; color: #71f;">Seja muito(a) bem-vindo(a) dev(a)! :)</h1>
   <h1>Sobre mim</h1>
  </header>
  <p>
