@@ -8,7 +8,7 @@ Me chamo João Gabriel Valentim Theodoro, sou desenvolvedor web. Trabalho com no
 
 ### Formação
 
-- <img src="https://4.bp.blogspot.com/-7DouliDO0KY/WH-B_HrAnHI/AAAAAAAAHBE/zNPdgeJ10ys7q87vhRoDEEnnDKVUjfwegCLcB/s1600/etec_ipaussu.jpg"  height="100"/> Etec Prof. Pedro Leme Brisolla Sobrinho Ipaussu - ETIM Informaica - 2017 - 2019
+- <img align="middle" src="https://4.bp.blogspot.com/-7DouliDO0KY/WH-B_HrAnHI/AAAAAAAAHBE/zNPdgeJ10ys7q87vhRoDEEnnDKVUjfwegCLcB/s1600/etec_ipaussu.jpg"  height="100"/> Etec Prof. Pedro Leme Brisolla Sobrinho Ipaussu - ETIM Informaica - 2017 - 2019
 
 ### Habilidades 🧰
 
